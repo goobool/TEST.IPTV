@@ -4,7 +4,7 @@ TEST.IPTV
  
 # =======================================================
 # Playlist Name: Hisense IPTV.m3u8
-# Last Update: 25-10-2020
+# Last Update: 10-11-2020
 # =======================================================
  
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png" group-title="PREMIUM", 11. Premier HD1
